@@ -22,7 +22,7 @@
 - 🔭 Currently building **agentic RAG systems** and sharpening DSA / LLD / system design for interviews
 - 🧠 Interested in Retrieval-Augmented Generation, LLM agents, and applied NLP
 - 🌱 Exploring LangGraph-based Adaptive-RAG architectures
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/utk4rshgupta) or check out my [Portfolio](#)
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/utk4rshgupta)
 
 ---
 
@@ -66,8 +66,6 @@
 - **[Talk to Learn](#)** — Voice-driven AI language tutor supporting 65+ languages, using Groq LLaMA 3.3-70B, Faster-Whisper, and edge-tts, with adaptive difficulty and a scoring/level-up system.
 - **[Hybrid Search System](#)** — Search engine combining Gemini embeddings with keyword scoring for improved retrieval relevance.
 - **[PII Redaction Tool](#)** — Local desktop app that scans PDFs/DOCX/XLSX/images for sensitive data (Aadhaar, PAN, bank details, cards, email, phone) and produces redacted copies with a report.
-- **[Portfolio Website](#)** — Personal site built with React, TanStack Router, and Tailwind CSS v4 in a dark "Obsidian Bento" theme.
-
 ---
 
 ### 📊 GitHub Stats
